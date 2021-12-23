@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+/src/main/java/com/example/employee/demo1/model/Department.java
+/src/main/java/com/example/employee/demo1/repository/DepartmentRepository.java
+/src/main/java/com/example/employee/demo1/model/Employee.java
+/src/main/java/com/example/employee/demo1/controller/EmployeeController.java
+/src/main/java/com/example/employee/demo1/repository/EmployeeRepository.java
+/src/main/java/com/example/employee/demo1/service/EmployeeService.java
+/src/main/java/com/example/employee/demo1/service/impl/EmployeeServiceImpl.java
